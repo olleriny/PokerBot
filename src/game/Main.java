@@ -8,7 +8,6 @@ public class Main {
 		new MenuPanel();
 
 //		checking, if rank can rank 5 cards... and, imagine, it can..
-//		where is this??
 //		Talon t = new Talon();
 //		for (int j = 0; j < 50; j++){
 //			Card[] cards = new Card[5];
